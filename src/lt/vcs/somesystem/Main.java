@@ -10,7 +10,6 @@ public class Main {
         int y2 = 20;
 
         double result = getResult(x1, y1, x2, y2);
-
         System.out.println(result);
     }
 
